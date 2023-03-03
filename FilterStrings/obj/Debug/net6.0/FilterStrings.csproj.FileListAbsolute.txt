@@ -1,0 +1,15 @@
+/home/mikhail/Final-control-work/FilterStrings/bin/Debug/net6.0/FilterStrings
+/home/mikhail/Final-control-work/FilterStrings/bin/Debug/net6.0/FilterStrings.deps.json
+/home/mikhail/Final-control-work/FilterStrings/bin/Debug/net6.0/FilterStrings.runtimeconfig.json
+/home/mikhail/Final-control-work/FilterStrings/bin/Debug/net6.0/FilterStrings.dll
+/home/mikhail/Final-control-work/FilterStrings/bin/Debug/net6.0/ref/FilterStrings.dll
+/home/mikhail/Final-control-work/FilterStrings/bin/Debug/net6.0/FilterStrings.pdb
+/home/mikhail/Final-control-work/FilterStrings/obj/Debug/net6.0/FilterStrings.csproj.AssemblyReference.cache
+/home/mikhail/Final-control-work/FilterStrings/obj/Debug/net6.0/FilterStrings.GeneratedMSBuildEditorConfig.editorconfig
+/home/mikhail/Final-control-work/FilterStrings/obj/Debug/net6.0/FilterStrings.AssemblyInfoInputs.cache
+/home/mikhail/Final-control-work/FilterStrings/obj/Debug/net6.0/FilterStrings.AssemblyInfo.cs
+/home/mikhail/Final-control-work/FilterStrings/obj/Debug/net6.0/FilterStrings.csproj.CoreCompileInputs.cache
+/home/mikhail/Final-control-work/FilterStrings/obj/Debug/net6.0/FilterStrings.dll
+/home/mikhail/Final-control-work/FilterStrings/obj/Debug/net6.0/ref/FilterStrings.dll
+/home/mikhail/Final-control-work/FilterStrings/obj/Debug/net6.0/FilterStrings.pdb
+/home/mikhail/Final-control-work/FilterStrings/obj/Debug/net6.0/FilterStrings.genruntimeconfig.cache
